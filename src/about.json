@@ -1,0 +1,11 @@
+{
+  "internName": "Praches",
+  "projectName": "SuuSri AI Ecosystem Integration",
+  "techStack": [
+    "JavaScript (Node.js)",
+    "React / Next.js",
+    "Tailwind CSS",
+    "PostgreSQL / MongoDB",
+    "REST APIs"
+  ]
+}
